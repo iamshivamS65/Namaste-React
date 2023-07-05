@@ -1,0 +1,28 @@
+{
+  "name": "Namaste React",
+  "version": "1.0.0",
+  "description": "This is namaste react by shivams65",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamshivamS65/Namaste-React.git"
+  },
+  "keywords": [
+    "React",
+    "Javascrip",
+    "Mean",
+    "Stack"
+  ],
+  "author": "ShivamS65",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iamshivamS65/Namaste-React/issues"
+  },
+  "homepage": "https://github.com/iamshivamS65/Namaste-React#readme",
+  "devDependencies": {
+    "parcel": "^2.9.3"
+  }
+}
